@@ -16,7 +16,7 @@ The challenge was to create yet another bubble game but uniquely different.<br><
 [Preview link to YouTube](https://youtu.be/x1DRFS2TXGU)
 
 <br><br>
-<p align="center">
+
 ![alt tag](https://github.com/iluso-6/Bubble_Trouble/blob/master/bb.gif?raw=true)
-</p>
+
 
