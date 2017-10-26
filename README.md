@@ -9,7 +9,10 @@ The challenge was to create yet another bubble game but uniquely different.<br><
 *Capturing a mixture results in a life lost*
 
 *Capturing only one of any colour - points deducted*
+
 ==========
+
+<br><br>
 [Preview in YouTube](https://youtu.be/x1DRFS2TXGU)
 <br><br>
 
