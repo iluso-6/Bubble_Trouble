@@ -13,10 +13,17 @@ The challenge was to create yet another bubble game but uniquely different.<br><
 ---------
 
 <br><br>
+<table>
+  <tr>
+    <td width="33%"></td>
+    <td width="33%"><img src="https://github.com/iluso-6/Bubble_Trouble/blob/master/bb.gif?raw=true"></td>
+    <td width="33%"></td>
+    </td>
+    
+    
 [Preview link to YouTube](https://youtu.be/x1DRFS2TXGU)
 
 <br><br>
 
-![alt tag](https://github.com/iluso-6/Bubble_Trouble/blob/master/bb.gif?raw=true)
 
 
