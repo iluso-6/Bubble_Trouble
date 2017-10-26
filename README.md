@@ -13,7 +13,7 @@ The challenge was to create yet another bubble game but uniquely different.<br><
 ---------
 
 <br><br>
-[Preview in YouTube](https://youtu.be/x1DRFS2TXGU)
+[Preview link to YouTube](https://youtu.be/x1DRFS2TXGU)
 
 <br><br>
 
