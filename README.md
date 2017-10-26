@@ -1,6 +1,6 @@
 # Bubble_Trouble
-***Game coded in Lua using the Corona SDK framework***
-
+***Game coded in Lua using the Corona SDK framework***<br><br>
+The challenge was to create yet another bubble game but uniquely different.<br><br>
 [Preview in YouTube](https://youtu.be/x1DRFS2TXGU)
 <br><br>
 
